@@ -230,7 +230,7 @@
         "recordingDisabledTooltip": "Začať s nepovoleným nahrávaním.",
         "rejoinNow": "Pripojiť znovu",
         "remoteControlAllowedMessage": "{{user}} povolil požiadavku na vzdialené ovládanie!",
-        "remoteControlDeniedMessage": ""{{user}} zamietol požiadavku na vzdialené ovládanie!",
+        "remoteControlDeniedMessage": "{{user}} zamietol požiadavku na vzdialené ovládanie!",
         "remoteControlErrorMessage": "Vyskytla sa chyba pri požiadavka na vzdalené ovládanie od {{user}}!",
         "remoteControlRequestMessage": "Povoliť vzdialené ovladanie pre {{user}}?",
         "remoteControlShareScreenWarning": "Ak stlačíte  Povoliť/Allow  budete zdieľať obrazovku!",
