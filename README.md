@@ -1,2 +1,2 @@
 # jitsi Lang
-SK
+SK translation
